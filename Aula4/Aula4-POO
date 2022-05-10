@@ -1,0 +1,18 @@
+O que é visibilidade em um objeto?
+
+visibilidade de atributos e métodos
+
+LINGUAGEM DE MODELAGEM UNIFICADA - UML
+
+    Do inglês: Unified Modeling Language
+
+Em diagramas de classes, toda classe é representada por um retângulo
+E dentro dessa classe podemos descrever os métodos e atributos que estarão presentes.
+
+Modificadores de Visibilidade 
+
+    - Público: a classe atual e todas as outras classes podem ter acesso aos atributos e métodos
+
+    - Privado: Somente a classe atual pode ter acesso aos atributos e métodos
+
+    - Protegido: a classe atual e todas as suas subclasses podem ter acesso aos atributos e métodos.

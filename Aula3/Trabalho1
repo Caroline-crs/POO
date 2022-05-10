@@ -1,0 +1,11 @@
+Utilize os conceitos de classe e objeto dentro da programação orientada a objetos e crie a Classe Caneta. Após a classe Caneta ser crida, instancie 4 objetos caneta - c1, c2, c3 e c4
+
+a) objeto c1 > azul, modelo bic, ponnta 0.5, carga 75%
+b) objeto c2 > preto, modelo lux, ponta 0.7, carga 80%
+c) objeto c3 > vermelho, modelo lux, ponta 0.5, carga 90%
+d) objeto c4 > verde, modelo bic, ponta 0.7, carga 98%
+e) faça que c1 e c3 possua estado rabiscando.
+f) Faça que c2 e c4 não possua rabiscar.
+
+
+*** ESTE CÓDIGO SE ENCONTRA NA PASTA "Atividade1" deste mesmo repositório
