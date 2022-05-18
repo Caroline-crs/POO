@@ -1,4 +1,4 @@
-public class mainCaneta {
+public class Aula2{
     public static void main(String[] args) {
         
         Caneta c1 = new Caneta();
@@ -14,5 +14,8 @@ public class mainCaneta {
         c2.destampar();
         c2.status();
         c2.rabiscar();
-    }   
+    }
 }
+
+
+    
